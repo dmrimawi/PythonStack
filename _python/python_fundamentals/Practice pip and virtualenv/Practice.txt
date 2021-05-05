@@ -1,0 +1,3 @@
+pip list: it shows the frameworks installed on the virtual environment
+deactivate: it deactivate the virtual environment
+pip3 list: it does the same as pip but with python

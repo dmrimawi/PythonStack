@@ -1,1 +1,0 @@
-This folder will contain all python_fundamentals assigns
